@@ -1,8 +1,10 @@
 variable name,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
 Supplier_Lead_Time,1,,,,
-Inventory_Levels,0,27,1,,,
-Order_Frequency,-0,88,-0,2,1,,
-Delivery_Performance,-0,91,-0,16,0,83,1,
-Cost_Per_Unit,0,96,0,27,-0,84,-0,89,1
+Inventory_Levels,0.27,1,,,
+Order_Frequency,-0.88,-0.2,1,,
+Delivery_Performance,-0.91,-0.16,0.83,1,
+Cost_Per_Unit,0.96,0.27,-0.84,-0.89,1
+
+
 
 
