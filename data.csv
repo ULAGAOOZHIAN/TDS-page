@@ -1,0 +1,20 @@
+source,target,flow
+Biomass,Process Heat,526
+Wind,Electrolysis,133
+Coal,Process Heat,90
+Electricity,Compressed Air,1302
+Steam,Heating,1124
+Solar,HVAC,1100
+Waste Heat,Heating,938
+Electricity,Machine Drives,1452
+Oil,Materials Handling,1081
+Electricity,Lighting,900
+Natural Gas,Heating,1037
+Coal,Heating,129
+Electricity,IT/Controls,1456
+Biomass,Heating,1144
+Natural Gas,Process Heat,150
+Electricity,Materials Handling,1468
+Natural Gas,Compressed Air,607
+Coal,Machine Drives,1508
+Solar,Lighting,1327
